@@ -1,7 +1,7 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.WriteLine("Jetzt alles auf links")
+        Console.WriteLine("A made a change")
     End Sub
 
 End Module
