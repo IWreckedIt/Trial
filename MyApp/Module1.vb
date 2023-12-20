@@ -1,7 +1,7 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.WriteLine("Gurke")
+        Console.WriteLine("Ein bessere Gurke")
     End Sub
 
 End Module
